@@ -1,9 +1,0 @@
-[gd_scene format=3 uid="uid://c6w1rd3n6rk6t"]
-
-[node name="Node2D" type="Node2D"]
-
-[node name="Node" type="Node" parent="."]
-
-[node name="Node2D" type="Node2D" parent="."]
-
-[node name="TileMapLayer" type="TileMapLayer" parent="."]
